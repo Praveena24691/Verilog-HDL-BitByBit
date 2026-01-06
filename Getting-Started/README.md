@@ -5,7 +5,7 @@ Click on each problem below to see the details and real-world applications.
 <details>
 <summary><b>🔹 Problem: Step One</b></summary>
 
-*   **Code:** [step_one.v](./step_one.v)
+*   **Code:** [Step_One.v](./Step_One.v)
 *   **Key Logic:** Continuous Assignment (`assign`)
 1. Every piece of hardware starts with 'module' and ends 
    with 'endmodule'.
