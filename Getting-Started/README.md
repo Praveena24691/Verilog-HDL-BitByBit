@@ -20,6 +20,6 @@ is 'assigned' to High (1) to keep the LED glowing constantly.
 
 *   **Code:** [zero.v](./zero.v)
 *   **Key Logic:** Logical Low / Grounding
-*   **Real-Life App:** Grounding unused pins to prevent electrical noise in 2026 circuits.
+  1. Here, 1'b0 represents 0 Volts.
+*   **Real-Life App:** Grounding unused pins to prevent electrical noise in the circuits.
 </details>
-
